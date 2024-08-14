@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple Python-based keylogger script designed for educational purposes. The keylogger captures and logs keystrokes to a text file. **Please use this software responsibly and only in environments where you have explicit permission to do so. Unauthorized use of keyloggers is illegal and unethical.**
+This is a Python-based keylogger script. The keylogger captures and logs keystrokes to a text file. **Please use this software responsibly and only in environments where you have explicit permission to do so. Unauthorized use of keyloggers is illegal and unethical.**
 
 ## Features
 
